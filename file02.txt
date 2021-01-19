@@ -1,2 +1,3 @@
 Good bye!!!
 Some new line.
+New line.
