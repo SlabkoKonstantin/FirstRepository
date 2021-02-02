@@ -2,3 +2,4 @@ Good bye!!!
 Some new line.
 New line.
 Another new line.
+Line from user2.
